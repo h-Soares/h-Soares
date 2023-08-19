@@ -8,4 +8,4 @@
   - [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagosoares002@gmail.com)
 
 ![h-Soares's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-Soares&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-Soares&hide_progress=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-Soares&hide_progress=false&layout=compact&theme=radical)
